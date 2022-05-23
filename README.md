@@ -7,8 +7,8 @@ This tecnical test requires to draw in console:
 
 ## Required 
 
--You must have node and python installed to run the files,
--You must open the terminal inside each folder.
+- You must have node and python installed to run the files.
+- You must open the terminal inside each folder.
 
 ### To execute the javascript code
 
