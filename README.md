@@ -1,14 +1,14 @@
-# Tecnical test (Camelia)Victoria El hnini El karti
+# Technical test (Camelia)Victoria El hnini El karti
 
+I made them both in Python and JavaScript.
 This tecnical test requires to draw in console:
 - A Christmas tree
 - A Chessboard 
-I made them both in Python and JavaScript.
 
 ## Required 
 
-You must have node and python installed to run the files,
-You must open the terminal inside each folder.
+-You must have node and python installed to run the files,
+-You must open the terminal inside each folder.
 
 ### To execute the javascript code
 
