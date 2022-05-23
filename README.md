@@ -16,4 +16,4 @@ This tecnical test requires to draw in console:
 
 ### To execute the python code
 
-    "python filename.py "
+    "python filename.py"
